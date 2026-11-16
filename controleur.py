@@ -1,5 +1,5 @@
 from modele import Modele
-from vue import Vue
+from Vue import Vue
 
 
 class Controleur:

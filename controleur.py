@@ -1,4 +1,4 @@
-from modele import Modele
+from Modele import Modele
 from Vue import Vue
 
 

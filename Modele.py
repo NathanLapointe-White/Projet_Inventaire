@@ -1,3 +1,8 @@
+import csv
+import os
+
+from Usager import usager
+
 class Modele:
     FICHIER = os.path.join(os.path.dirname(os.path.abspath(__file__)), "liste_emprunter.csv")
 
